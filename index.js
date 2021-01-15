@@ -20,3 +20,8 @@ let allWagesFor = function () {
 
     return payable
 }
+let record = {0:'firstName',1:'familyName',2:'title',3:'payPerHour'};
+function createEmployeeRecord(){
+
+
+}
